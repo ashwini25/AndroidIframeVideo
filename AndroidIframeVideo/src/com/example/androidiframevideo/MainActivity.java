@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 	WebView video_webview;
 	ProgressBar Pbar;
 
+	//Initial method in activity
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
